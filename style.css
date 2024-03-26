@@ -1,0 +1,46 @@
+canvas{
+  border: 3px solid red;
+  border-radius:15px;
+  width: 40%;
+  background-color: black;
+}
+h1{
+  text-align: center;
+  font-family: "Lucida Console";
+  font-size: 60px;
+  text-shadow: 1px 2px red;
+  margin: 1% 15%;
+  padding: 1%;
+  font-size: 400%;
+  color: black;
+}
+body{
+  text-align: center;
+  background-color: #4dffff;
+  padding: 5% 5%;
+}
+input{
+  border: 2px solid #5B84B1FF;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #8ef08b;
+    text-align: center;
+/*  width: auto;
+  height: 25x;
+  padding: auto;*/
+  font-size: 16px;
+  color: blue;
+  font-family: serif;
+}
+h2{
+  font-size: 40px;
+  color: black;
+  margin: 1% 35%;
+  text-shadow: 2px 1px red;
+}
+input:hover {
+  cursor: pointer;
+  background: #8b98f0;
+  color: #D6ED17FF;
+  
+}
